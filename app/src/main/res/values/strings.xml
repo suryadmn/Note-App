@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Note App</string>
+    <string name="add_tile">Add tile</string>
+    <string name="enter_note">Enter note</string>
+    <string name="save">save</string>
+    <string name="to_do">to do</string>
+    <string name="date">12 March 2020</string>
+    <string name="edit">edit</string>
+    <string name="delete">delete</string>
+    <string name="update">update</string>
+    <string name="searching">Search...</string>
+    <string name="username">username</string>
+    <string name="password">password</string>
+    <string name="login">LOGIN</string>
+</resources>
